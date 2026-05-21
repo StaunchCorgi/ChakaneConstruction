@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KCMC_Maintenance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+472d6c9fe16b168328c52e197a487928b15d64bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("KCMC_Maintenance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KCMC_Maintenance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

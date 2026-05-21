@@ -97,3 +97,4 @@
 /Users/palesamorele/KCMC_Maintenance/KCMC_Maintenance/obj/Debug/net10.0/compressed/hdftgtijjt-{0}-3r8b2a0bt1-3r8b2a0bt1.gz
 /Users/palesamorele/KCMC_Maintenance/KCMC_Maintenance/obj/Debug/net10.0/compressed/yo3rbm1ah7-{0}-vmkqjvttu5-vmkqjvttu5.gz
 /Users/palesamorele/KCMC_Maintenance/KCMC_Maintenance/obj/Debug/net10.0/compressed/v418233vl6-{0}-f0ulbdcw0d-f0ulbdcw0d.gz
+/Users/palesamorele/KCMC_Maintenance/KCMC_Maintenance/obj/Debug/net10.0/KCMC_Maintenance.sourcelink.json
